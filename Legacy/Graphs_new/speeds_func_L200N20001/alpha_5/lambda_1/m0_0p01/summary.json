@@ -1,0 +1,18 @@
+{
+  "lambda_val": 1,
+  "m0": 0.01,
+  "alpha": 5,
+  "wave_speed": 0.12687557854346812,
+  "r2": 0.9999946125183589,
+  "m_threshold": 0.005,
+  "m_wave_speed": null,
+  "m_r2": null,
+  "dt": 0.1,
+  "T": 200,
+  "L": 200,
+  "N": 20001,
+  "init_type": "tanh",
+  "t_start": 100,
+  "t_end": 140,
+  "saved_stride": 150
+}

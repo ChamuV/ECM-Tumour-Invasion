@@ -1,0 +1,200 @@
+[
+  {
+    "lambda": 0.001,
+    "alpha": 100000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.001,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.001,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.001,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.01,
+    "alpha": 100000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.01,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.01,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.01,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.1,
+    "alpha": 100000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.1,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.1,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.1,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.5,
+    "alpha": 100000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.5,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.5,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 0.5,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 1,
+    "alpha": 100000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 1,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 1,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 1,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 5,
+    "alpha": 100000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 5,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 5,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 5,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 10,
+    "alpha": 100000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 10,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 10,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 10,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 100,
+    "alpha": 1000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 100,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 100,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 1000,
+    "alpha": 10000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  },
+  {
+    "lambda": 1000,
+    "alpha": 100000000,
+    "m0": 0,
+    "error": "Wave speed could not be calculated."
+  }
+]

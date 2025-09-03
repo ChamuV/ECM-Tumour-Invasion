@@ -1,0 +1,200 @@
+[
+  {
+    "lambda": 0.001,
+    "m0": 1,
+    "alpha": 5,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.001,
+    "m0": 1,
+    "alpha": 10,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.001,
+    "m0": 1,
+    "alpha": 100,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.01,
+    "m0": 1,
+    "alpha": 100,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.001,
+    "m0": 1,
+    "alpha": 1000,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.01,
+    "m0": 1,
+    "alpha": 1000,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.05,
+    "m0": 1,
+    "alpha": 1000,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.001,
+    "m0": 0,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.001,
+    "m0": 1,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.01,
+    "m0": 0,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.01,
+    "m0": 1,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.05,
+    "m0": 0,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.05,
+    "m0": 1,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 1,
+    "m0": 0,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 1,
+    "m0": 1,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 5,
+    "m0": 0,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 5,
+    "m0": 1,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 10,
+    "m0": 0,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 10,
+    "m0": 1,
+    "alpha": 100000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.001,
+    "m0": 0,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.001,
+    "m0": 1,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.01,
+    "m0": 0,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.01,
+    "m0": 1,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.05,
+    "m0": 0,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 0.05,
+    "m0": 1,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 1,
+    "m0": 0,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 1,
+    "m0": 1,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 5,
+    "m0": 0,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 5,
+    "m0": 1,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 10,
+    "m0": 0,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 10,
+    "m0": 1,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 100,
+    "m0": 0,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  },
+  {
+    "lambda": 100,
+    "m0": 1,
+    "alpha": 1000000.0,
+    "error": "Wave speed (N) could not be calculated"
+  }
+]

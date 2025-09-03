@@ -3,9 +3,8 @@
 This repository contains code for simulating and analysing the tumour–ECM invasion model.  
 
 This is a **double-degenerate cross-diffusion model** with singular nonlinear diffusion and ECM regeneration:
-
 $$
-\frac{\partial u}{\partial t} = \frac{partial }{partial x} \\left(m(1-m)\,\frac{partial u}{partial x}) + \,u\left(1-u\right),
+\frac{\partial u}{\partial t} = \frac{\partial}{\partial x} \left(D\,m(1-m)\,\frac{\partial u}{\partial x}\right) + \rho\,u\left(1-u\right),
 \qquad
 \frac{\partial m}{\partial t} = \alpha(1-m) - \lambda\,u m.
 $$

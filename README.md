@@ -1,4 +1,3 @@
-
 # ECM–Tumour Invasion
 
 This repository contains code for simulating and analysing the tumour–ECM invasion model.  
@@ -39,41 +38,3 @@ Install dependencies (preferably inside a virtual environment to avoid conflicts
 
 ```bash
 pip install -r Clean/requirements.txt
-
-## Usage
-You can run parameter sweeps for the model directly from the terminal.
-
-Example:
-
-    python Clean/runner.py \
-        --lambdas 0.01,0.1,1 \
-        --alphas 0.1,1,10 \
-        --m0s 0.1,0.5 \
-        --u0s 0.3,0.7 \
-        --outdir results \
-        --jobs 4
-
-If you get an error with "python", try "python3" instead.
-
-## Output
-
-Results are stored in the folder specified by --outdir (default: results/) with the structure:
-
-    results/
-        lambda_<val>/
-            alpha_<val>/
-                m0_<val>/
-                    u0_<val>/
-                        summary.json
-                        fronts_N.npz
-                        snapshots.npz
-
-- summary.json – metadata (parameters, wave speed estimate, R² fit, etc.)
-- fronts_N.npz – tumour front locations over time (interpolated)
-- snapshots.npz – tumour and ECM profiles at sampled times
-
-## Notes
-
-- Parallel runs: adjust --jobs to change the number of parallel workers (e.g. --jobs 8).
-- Custom runs: import Tumour_ECM_1D from Model.py in a Python script or notebook to run individual simulations.
-- Data size: results can be large — use separate --outdir folders to stay organised.
